@@ -1,0 +1,6 @@
+✅ Method 1: Use “Bring to Front”
+Select your bar chart
+Go to top ribbon → Format
+Click:
+Bring forward (one step)
+OR Bring to front (best option)	

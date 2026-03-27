@@ -1,0 +1,46 @@
+
+
+This project is about understanding how customers shop and spend money.
+
+First, I used Python to clean the data. I removed missing values, fixed column names, and created some new columns like age group and purchase frequency to make the data more useful.
+
+Then, I moved the cleaned data into a SQL database (PostgreSQL). Using SQL, I analyzed the data to find important insights like:
+
+Which gender spends more
+Which products have highest ratings
+How discounts affect spending
+Customer types like new, returning, and loyal
+Revenue based on age group and subscription
+
+After that, I connected the data to Power BI and created a dashboard. This dashboard shows all insights in charts and visuals so that anyone can easily understand the data.
+
+Finally, based on the analysis, I gave some business suggestions like improving subscriptions, targeting loyal customers, and optimizing discount strategy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+✅ Method 1: Use “Bring to Front”
+Select your bar chart
+Go to top ribbon → Format
+Click:
+Bring forward (one step)
+OR Bring to front (best option)	
+
+
